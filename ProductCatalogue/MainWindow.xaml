@@ -1,0 +1,32 @@
+﻿<Window x:Class="ProductCatalogue.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Product Catalogue" Height="300" Width="400"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!-- Main content area -->
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Name}" 
+                       FontSize="16" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,8"/>
+            <TextBlock Text="{Binding Price}" 
+                       FontSize="14" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,8"/>
+            <TextBlock Text="{Binding ShortDescription}" 
+                       TextWrapping="Wrap" 
+                       HorizontalAlignment="Center" 
+                       Width="300"/>
+        </StackPanel>
+
+        <!-- Navigation buttons (Previous/Next) -->
+        <StackPanel Orientation="Horizontal" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Bottom" 
+                    Margin="0,0,0,20">
+            <Button Content="Previous" Width="80" Click="BtnPrev_Click" Margin="10,0,10,0"/>
+            <Button Content="Next" Width="80" Click="BtnNext_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

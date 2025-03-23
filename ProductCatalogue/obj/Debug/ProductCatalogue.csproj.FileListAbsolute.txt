@@ -1,0 +1,14 @@
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\bin\Debug\ProductCatalogue.exe.config
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\bin\Debug\ProductCatalogue.exe
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\bin\Debug\ProductCatalogue.pdb
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue.csproj.AssemblyReference.cache
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\MainWindow.baml
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\MainWindow.g.cs
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\App.g.cs
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue_MarkupCompile.cache
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue.g.resources
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue.Properties.Resources.resources
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue.csproj.GenerateResource.cache
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue.exe
+C:\Users\Pete\Documents\ROCMN\ProductCatalogue\ProductCatalogue\ProductCatalogue\obj\Debug\ProductCatalogue.pdb
